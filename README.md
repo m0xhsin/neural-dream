@@ -37,5 +37,5 @@ python3 dream.py <image_path> <layer_index> <steps>
 
 
 Example:
-```bash
+
 python3 dream.py images/input.jpg 50 40
